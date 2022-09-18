@@ -768,4 +768,3 @@ Part1Joint = CFrame.new(Vector3.new(-0.5,0.75,0)*Scale*1.25)
 Part0JointHead = CFrame.new(Vector3.new(0,1,0)*Scale*1.25)
 Part1JointHead = CFrame.new(Vector3.new(0,-0.5,0)*Scale*1.25)
 end
-end)
